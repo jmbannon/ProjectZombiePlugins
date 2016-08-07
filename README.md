@@ -14,7 +14,7 @@ We are not restricting these plugins' use only to Project Zombie. Each plugin is
 These plugins are sorted by maturity (i.e. number of features).
 ## Crackshot Enhanced [[link](https://github.com/jmbannon/CrackshotEnhanced)]
 ## Dynamic Regions [[link](https://github.com/jmbannon/DynamicRegions)]
-## Survival Parties [[link](https://github.com/jmbannon/SurvivalTeams)]
+## Survival Teams [[link](https://github.com/jmbannon/SurvivalTeams)]
 ## Loot Drops [[link](https://github.com/jmbannon/LootDrops)]
 ## Block Buffer [[link](https://github.com/jmbannon/BlockBuffer)]
 ## Custom Interactions [[link](https://github.com/jmbannon/CustomInteractions)]
