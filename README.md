@@ -20,6 +20,7 @@ These plugins are sorted by maturity (i.e. number of features).
 ## Custom Interactions [[link](https://github.com/jmbannon/CustomInteractions)]
 ## Constistent Chat API [[link](https://github.com/jmbannon/ConsistentChatApi)]
 ## Compass Navigation [[link](https://github.com/jmbannon/CompassNavigation)]
+## RegionRotation [[link](https://github.com/jmbannon/RegionRotation)]
 
 
 ## Our Message
