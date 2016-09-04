@@ -15,12 +15,12 @@ These plugins are sorted by maturity (i.e. number of features).
 ## Crackshot Enhanced [[link](https://github.com/jmbannon/CrackshotEnhanced)]
 ## Dynamic Regions [[link](https://github.com/jmbannon/DynamicRegions)]
 ## Survival Teams [[link](https://github.com/jmbannon/SurvivalTeams)]
+## Region Rotation [[link](https://github.com/jmbannon/RegionRotation)]
 ## Loot Drops [[link](https://github.com/jmbannon/LootDrops)]
 ## Block Buffer [[link](https://github.com/jmbannon/BlockBuffer)]
 ## Custom Interactions [[link](https://github.com/jmbannon/CustomInteractions)]
 ## Constistent Chat API [[link](https://github.com/jmbannon/ConsistentChatApi)]
 ## Compass Navigation [[link](https://github.com/jmbannon/CompassNavigation)]
-## RegionRotation [[link](https://github.com/jmbannon/RegionRotation)]
 
 
 ## Our Message
