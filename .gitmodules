@@ -1,0 +1,27 @@
+[submodule "CrackshotEnhanced"]
+	path = CrackshotEnhanced
+	url = https://github.com/jmbannon/CrackshotEnhanced
+[submodule "DynamicRegions"]
+	path = DynamicRegions
+	url = https://github.com/jmbannon/DynamicRegions.git
+[submodule "SurvivalTeams"]
+	path = SurvivalTeams
+	url = https://github.com/jmbannon/SurvivalTeams
+[submodule "RegionRotation"]
+	path = RegionRotation
+	url = https://github.com/jmbannon/RegionRotation
+[submodule "LootDrops"]
+	path = LootDrops
+	url = https://github.com/jmbannon/LootDrops
+[submodule "BlockBuffer"]
+	path = BlockBuffer
+	url = https://github.com/jmbannon/BlockBuffer
+[submodule "CustomInteractions"]
+	path = CustomInteractions
+	url = https://github.com/jmbannon/CustomInteractions
+[submodule "ConsistentChatApi"]
+	path = ConsistentChatApi
+	url = https://github.com/jmbannon/ConsistentChatApi
+[submodule "CompassNavigation"]
+	path = CompassNavigation
+	url = https://github.com/jmbannon/CompassNavigation
