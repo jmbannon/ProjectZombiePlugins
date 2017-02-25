@@ -25,3 +25,6 @@
 [submodule "CompassNavigation"]
 	path = CompassNavigation
 	url = https://github.com/jmbannon/CompassNavigation
+[submodule "ProjectZombiePluginConfigurations"]
+	path = ProjectZombiePluginConfigurations
+	url = https://github.com/jmbannon/ProjectZombiePluginConfigurations
